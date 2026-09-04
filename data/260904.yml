@@ -7,7 +7,7 @@ about:
   head: 12b3d2e
   archived: false
   latestVersion: REL_1_5_0
-  collectedAt: 2026-09-04T19:20:03Z
+  collectedAt: 2026-09-04T21:12:18Z
 timeline:
   created: 2008-11-30
   lastCommit: 2026-01-19
@@ -83,6 +83,59 @@ total:
   openIssue: 14
   commit: 1147
 ---
+path: /home/runner/.x-repo/github.com/gettalong/kramdown
+collectedAt: 2026-09-04T21:12:19Z
+loc:
+  Ruby:
+    code: 7926
+    comments: 1869
+    blanks: 1272
+    files: 64
+  Html:
+    code: 2543
+    comments: 13
+    blanks: 670
+    files: 200
+  Sass:
+    code: 650
+    comments: 48
+    blanks: 138
+    files: 2
+  Rakefile:
+    code: 201
+    comments: 17
+    blanks: 46
+    files: 1
+  Sh:
+    code: 96
+    comments: 4
+    blanks: 18
+    files: 4
+  RubyHtml:
+    code: 62
+    comments: 0
+    blanks: 27
+    files: 1
+  AspNet:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 52
+    blanks: 28
+    files: 2
+  Text:
+    code: 0
+    comments: 2650
+    blanks: 1225
+    files: 218
+total:
+  code: 11500
+  comments: 4653
+  blanks: 3425
+  files: 493
 ---
 date: "2026-08-24"
 repo:
