@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 234718,
       "digest": null,
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2014-10-25T21:29:56Z",
       "updated_at": "2014-10-25T21:30:00Z",
       "browser_download_url": "https://github.com/gettalong/kramdown/releases/download/REL_1_5_0/kramdown-1.5.0.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 396714,
       "digest": null,
-      "download_count": 218,
+      "download_count": 219,
       "created_at": "2014-10-25T21:29:56Z",
       "updated_at": "2014-10-25T21:29:59Z",
       "browser_download_url": "https://github.com/gettalong/kramdown/releases/download/REL_1_5_0/kramdown-1.5.0.zip"
