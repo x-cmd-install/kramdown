@@ -1,0 +1,23 @@
+- repo: aosc
+  srcname: lang-ruby/kramdown
+  binname: kramdown
+  visiblename: kramdown
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: A Markdown superset converter
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - ruby
+- repo: openindiana
+  subrepo: hipster
+  srcname: kramdown
+  binname: library/ruby/kramdown
+  visiblename: kramdown
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Ruby Markdown superset converter
+  categories:
+    - Development/Ruby
