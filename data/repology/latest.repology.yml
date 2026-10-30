@@ -4,7 +4,7 @@
   visiblename: kramdown
   version: 2.5.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A Markdown superset converter
   maintainers:
     - fallback-mnt-aosc@repology
@@ -17,7 +17,7 @@
   visiblename: kramdown
   version: 2.5.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Ruby Markdown superset converter
   categories:
     - Development/Ruby
@@ -26,7 +26,7 @@
   visiblename: kramdown
   version: 2.5.2
   origversion: null
-  status: newest
+  status: untrusted
   summary: Fast, pure Ruby Markdown superset converter
   maintainers:
     - rene@exactco.de
