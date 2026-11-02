@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 46 · **Open PRs**: 5 · **Closed issues**: 583 · **Open issues**: 15 · **Commits**: 1147
+- **Releases**: 2 · **Merged PRs**: 46 · **Open PRs**: 3 · **Closed issues**: 590 · **Open issues**: 8 · **Commits**: 1147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 2 | 1 | 2 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 2 | 2 | 4 | 4 |
-| last720d | 2024-11-11 | 0 | 0 | 4 | 12 | 9 | 23 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 2 | 1 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 0 | 5 | 1 | 4 |
+| last720d | 2024-11-12 | 0 | 0 | 2 | 19 | 2 | 23 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kramdown lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:25:21Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:39:34Z._
