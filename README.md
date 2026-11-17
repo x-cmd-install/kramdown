@@ -14,12 +14,12 @@ x install kramdown
 
 ## Code insight
 
-Total: **11,483** lines of code across **271** files in the top 5 languages.
+Total: **11,600** lines of code across **274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 7,926 | 1,869 | 1,272 | 64 |
-| Html | 2,543 | 13 | 670 | 200 |
+| Ruby | 8,026 | 1,874 | 1,281 | 64 |
+| Html | 2,560 | 13 | 675 | 203 |
 | Sass | 650 | 48 | 138 | 2 |
 | Rakefile | 201 | 17 | 46 | 1 |
 | Sh | 96 | 4 | 18 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `REL_1_5_0` (2014-10-25)
-- **Last commit**: 2026-01-19
+- **Last commit**: 2026-11-16
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,783 · **Forks**: 280 · **Open issues**: 598 · **Contributors**: 81
+- **Stars**: 1,783 · **Forks**: 280 · **Open issues**: 598 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 46 · **Open PRs**: 2 · **Closed issues**: 591 · **Open issues**: 7 · **Commits**: 1147
+- **Releases**: 2 · **Merged PRs**: 46 · **Open PRs**: 2 · **Closed issues**: 591 · **Open issues**: 7 · **Commits**: 1166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 3 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 0 | 0 | 6 | 0 | 4 |
-| last720d | 2024-11-26 | 0 | 0 | 1 | 20 | 1 | 4 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 1 | 0 | 16 |
+| last180d | 2026-05-21 | 0 | 0 | 0 | 3 | 0 | 17 |
+| 360d | 2025-11-22 | 0 | 0 | 0 | 6 | 0 | 23 |
+| last720d | 2024-11-27 | 0 | 0 | 1 | 20 | 1 | 23 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kramdown lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:44:17Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:51:08Z._
