@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 16 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 1 | 0 | 16 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 3 | 0 | 17 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 6 | 0 | 23 |
-| last720d | 2024-12-04 | 0 | 0 | 1 | 19 | 1 | 23 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 1 | 0 | 16 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 3 | 0 | 17 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 5 | 0 | 23 |
+| last720d | 2024-12-05 | 0 | 0 | 1 | 19 | 1 | 23 |
 
 ## Release assets
 
@@ -71,10 +71,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [kramdown-1.5.0.tgz](https://github.com/gettalong/kramdown/releases/download/REL_1_5_0/kramdown-1.5.0.tgz) | 229.2 KiB | `native/unknown` |
 | [kramdown-1.5.0.zip](https://github.com/gettalong/kramdown/releases/download/REL_1_5_0/kramdown-1.5.0.zip) | 387.4 KiB | `other` |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/kramdown). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -85,4 +81,4 @@ Install metadata for kramdown lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:47:21Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:04:32Z._
